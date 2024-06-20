@@ -11199,6 +11199,25 @@ module.exports = [
     ],
   },
   {
+    name: 'Steve Ledlow',
+    description: 'I father, I write, I drink coffee.',
+    url: 'https://tangiblelife.net/uses',
+    emoji: '🪼',
+    country: '🇺🇸',
+    computer: 'apple',
+    phone: 'iphone',
+    tags: [
+      'Figma',
+      'Minimalist',
+      'Blot',
+      'iA Writer',
+      'Web Dev',
+      'Self Taught',
+      'Designer',
+      'Writer'
+    ],
+  },
+  {
     name: 'Adam Jahnke',
     description:
       'Caffiend, motorcyclist, climber, recovering perfectionist. I love to make the complex simple.',
